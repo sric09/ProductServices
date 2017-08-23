@@ -14,7 +14,7 @@ public class ProductDAOImplTest {
 		Product prod=new Product(1, "Iphone 6",45000);
 		
 		prodDAO.create(prod);
-		Product read = prodDAO.read(2);
+		Product read = prodDAO.read(1);
 		assertNotNull(read);
 	}
 
