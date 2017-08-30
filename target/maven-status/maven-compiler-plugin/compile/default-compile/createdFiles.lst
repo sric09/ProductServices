@@ -1,0 +1,5 @@
+com\sridhar\product\bo\ProductServiceBOImpl.class
+com\sridhar\product\Product.class
+com\sridhar\product\bo\ProductServiceBO.class
+com\sridhar\product\dao\ProductDAOImpl.class
+com\sridhar\product\dao\ProductDAO.class
